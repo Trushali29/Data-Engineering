@@ -25,3 +25,9 @@ Q3. How much sales is been done on each sub category and which is the highest sa
 <br />
 ![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/ec6ee9ed-04a6-4b3e-8bcf-744108dfcbbf)
 
+Q4. Show profit of each product using decompostion tree
+<br />
+<br />
+![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/692370e7-a0f1-4edd-aede-6b17301992f6)
+
+
