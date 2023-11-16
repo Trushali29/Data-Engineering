@@ -5,7 +5,7 @@ Data Visualization on US superstore dataset using powerbi
 2. after cleaning show visualization using powerbi
 
 Q1. Find out the city and state or province who as oerder the product.
-
+\n
 Here north americans region is more populated. Europe is the second country for most orders. 
 
 
