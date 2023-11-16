@@ -35,6 +35,10 @@ Q5. Identify the shipping mode and cost of each shipping mode on each category.
 <br />
 ![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/df8c73ca-22f8-4cd2-b41a-8c90dc71c826)
 
+Q6. Find out how much profit is gained by which customer segment.
+<br />
+<br />
+![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/54a25e81-af92-4940-badd-442823739629)
 
 
 
