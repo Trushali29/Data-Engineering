@@ -40,5 +40,9 @@ Q6. Find out how much profit is gained by which customer segment.
 <br />
 ![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/54a25e81-af92-4940-badd-442823739629)
 
+Q7. Final Visualization
+<br />
+<br />
+![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/51ba980d-5c7f-4b6b-9324-6364589ca789)
 
 
