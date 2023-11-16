@@ -30,4 +30,11 @@ Q4. Show profit of each product using decompostion tree
 <br />
 ![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/692370e7-a0f1-4edd-aede-6b17301992f6)
 
+Q5. Identify the shipping mode and cost of each shipping mode on each category.
+<br />
+<br />
+![image](https://github.com/Trushali29/Data-Visualization/assets/84562990/df8c73ca-22f8-4cd2-b41a-8c90dc71c826)
+
+
+
 
