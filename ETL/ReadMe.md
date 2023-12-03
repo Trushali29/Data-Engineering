@@ -1,3 +1,11 @@
+
+**Data Extract, Transform and Load**
+
+1. The data is extracted from various sources such as XML, JSON, and CSV files.
+2. A Python Script is written to extract data from various sources and transform it into CSV file.
+3. The visualization of the data is done.
+
+
 ![image](https://github.com/Trushali29/Data-Engineering/assets/84562990/a7087750-eeeb-41c5-988f-dfb0d87d5cf4)
 
 
