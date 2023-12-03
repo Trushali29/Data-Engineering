@@ -17,6 +17,11 @@
 ![image](https://github.com/Trushali29/Data-Engineering/assets/84562990/347a3933-4e1b-4cc2-95d9-60e8fc80ef5d)
 
 
-Upload the sv into database MySQL
+Upload the CSV file into MySQL using python 
 
 ![image](https://github.com/Trushali29/Data-Engineering/assets/84562990/9d7bf825-8ca6-4999-9f2a-4770a10b3482)
+
+cars table view in MySQL database
+
+![image](https://github.com/Trushali29/Data-Engineering/assets/84562990/b5061185-ffc9-4e3b-8c0f-b6c7c0bbfaae)
+
